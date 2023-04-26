@@ -1,0 +1,3 @@
+/Users/wushujuan/Desktop/pj_2/CMakeFiles/pj_2.dir
+/Users/wushujuan/Desktop/pj_2/CMakeFiles/edit_cache.dir
+/Users/wushujuan/Desktop/pj_2/CMakeFiles/rebuild_cache.dir
